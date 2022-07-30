@@ -1,0 +1,12 @@
+*.slo
+*.lo
+*.o
+*.obj
+a.out
+
+*~
+\#*\#
+.\#*
+.vscode/
+autoCompletion
+dict.txt
